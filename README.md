@@ -1,5 +1,8 @@
 # Simple Discord bot with DiscordJS V12.5.3
 
+> Développé par : qrlmza#0001
+> Discord : https://discord.gg/V9bpePSQme (temporaire)
+> Version : 0.2.5
 
 # Comment le mettre en place ?
 - **Tout simplement il faut:**
