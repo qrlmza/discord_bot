@@ -1,2 +1,1 @@
-# discord_bot
-a symple discord bot with djsV12
+#Simple Discord bot with DiscordJS V12.5.3
